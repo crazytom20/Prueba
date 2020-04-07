@@ -1,0 +1,20 @@
+Sugerencia :
+
+AL MOMENTO DE REGISTRAR LOS ARCHIVOS
+DECIRLE LA CANTIDAD O PESO DEL ARCHIVO 
+
+BASICOS:--------------:
+
+Tipo de Documento(Certificados)
+Categoria: Grados y titulos
+1. ""  : Certificados y Constancias
+2. ""  :Documentos personales basicos
+	-DNI
+	-Boletas
+	-Partida de Nacimiento
+3. ""    : Constancias de estudio
+5.Constanciad e practica
+6.DOCUMENTOS LABORLES
+4.Acta de sustentación
+5.SOLICITUDES
+ 

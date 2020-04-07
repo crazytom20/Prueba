@@ -1,0 +1,24 @@
+@import url('normalize.css');
+@import url('bootstrap.min.css');
+body, 
+html{
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+	position: relative;  
+}
+.login{
+	width: 400px;
+	border: 1px solid #E1E1E1;
+	border-radius: 4px;
+	padding: 10px;
+    position: relative;
+	top: 250px;
+	left: 64%;
+	transform: translate(-90%, -150%);
+}
+@media (max-width: 900px){
+	.login{
+		width: 100%;
+	}
+}

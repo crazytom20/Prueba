@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Arekusanderu{
+  public static void main(String args[]){
+   Scanner ex = new Scanner(System.in);
+    int dia,mes,año;
+   
+	System.out.println("Ingrese dia: ");
+	dia = ex.nextInt();
+	System.out.println("Ingrese mes: ");
+	mes= ex.nextInt();
+	System.out.println("Ingrese año:")
+
+
+ }
+}

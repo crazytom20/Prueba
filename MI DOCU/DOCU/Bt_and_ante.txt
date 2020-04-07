@@ -1,0 +1,38 @@
+Antecedente
+
+León(2010) en la investigacion presentada por la 
+FACULTAD DE CIENCIAS PURAS Y NATURALES CARRERA DE INFORMÁTICA 
+de la Universidad Mayor de San Andrés(LA PAZ – BOLIVIA) 
+Titulada “Sistema Inteligente de Supervisión de Alarmas Basado en Microcontroladores PIC, SISAP”
+se utiliza el microcontrolador PIC 16F73 y una trasmisión de datos a través de la red
+telefónica, este sistema es capaz de manejar hasta 40 eventos, el objetivo principal de este
+trabajo es llevar inteligencia al centro no atendido con un sistema que se gestione así
+mismo en caso de alguna dificultad, logrando flexibilidad en un punto tan delicado para
+cualquier empresa como lo es la supervisión de cualquiera de sus unidades.[1]
+
+
+
+BASE TEORICA
+
+En 1852 se inventa el primer sistema de alarma electro-mecánico por Edwin Holmes, 
+quien es un inventor estadounidense de Boston, Massachusetts, pero es patentada 
+en 1853 por el reverendo Augusto Russell y más tarde, Holmes adquiere los derechos
+ de patente y la fabricación del producto en su fábrica en Boston.
+Internacionalmente los sistemas de alarmas fotoeléctricas que utilizan una fuente 
+de luz y una foto sensor como un LDR o un fototransistor, poseen grandes limitaciones 
+en relación con el espacio protegido, tanto por la sensibilidad del elemento receptor 
+como por la potencia del elemento emisor.
+Debido a que en los últimos años ha incrementado el porcentaje de robos en las casas a pesar de contar con cerco eléctrico, que en realidad, este ya no representa una medida de seguridad confiable, hemos buscado conseguir con este proyecto, proveer a hogares de sectores peligrosos y de bajos recursos, el conocimiento de realizar una fácil alarma casera y  de bajo costo, al igual que mostraremos la efectividad de una alarma laser con simples espejos.
+La ventaja principal es que resulta más eficaz para hogares pequeños donde no se use muchos espejos, mientras más cuadrados resulten los espacios a proteger, más recomendable es usar esta alarma. Pero también tiene como mayor desventaja que los animales también pueden activarla, sin querer.
+[2]
+
+
+
+
+[1]------SISTEMA DE SEGURIDAD DOMICILIARIA BASADA EN TECNOLOGÍA ARDUINO Y APLICACIÓN MÓVIL. (2019). 
+1st ed. [ebook] LA PAZ – BOLIVIA, p.1. Available at: 
+https://repositorio.umsa.bo/bitstream/handle/123456789/7661/T.3103.pdf?sequence=1&isAllowed=y [Accessed 2 Dec. 2019]. 
+
+[2]-----ESPINOZA, D., ESPINOZA, D. and perfil, V. (2019). PROYECTO: ALARMA LASER- SENSOR DE MOVIMIENTOS. 
+[online] Ondasguiadasdiana.blogspot.com. 
+Available at: http://ondasguiadasdiana.blogspot.com/2016/11/proyecto-alarma-laser-sensor-de.html [Accessed 2 Dec. 2019].
